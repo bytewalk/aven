@@ -1,0 +1,9 @@
+{
+    "name": "aven",
+    "version": "0.0.1",
+    "description": "client side framework",
+    "main": "index.js",
+    "keywords": [
+        "client side"
+    ]
+}
